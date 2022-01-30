@@ -1,0 +1,12 @@
+#cakes {
+    
+float: left;
+    height: 300px;
+    width: 200px;
+}
+#c1{
+    position:relative; top: 0px;
+    float:left; margin: 0;
+    width: 200px;
+    height: 300px; 
+}
